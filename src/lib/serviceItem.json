@@ -1,0 +1,34 @@
+{
+  "serviceItems": [
+    {
+      "id": 1,
+      "title": "Web Development",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laborum cumque debitis libero incidunt delectus tempore assumenda magni voluptate voluptatibus praesentium?"
+    },
+    {
+      "id": 2,
+      "title": "Seo Optimization Code Canvas Creation",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laborum cumque debitis libero incidunt delectus tempore assumenda magni voluptate volupta tibus praesenti umasssssssserewrwervwtcwer dsfrerwwerf wef  ss sssss ssss sssss sssd ssssssssssssss sssssss sssss ssssssss sssssss ssssss sssssssss ssssssssssssssss sssssssssssss ssssssssssssss ssssssssssssssssss?"
+    },
+    {
+      "id": 3,
+      "title": "IT Solution",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laborum cumque debitis libero incidunt delectus tempore assumenda magni voluptate voluptatibus praesentium?"
+    },
+    {
+      "id": 4,
+      "title": "Digital Campaigns",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laborum cumque debitis libero incidunt delectus tempore assumenda magni voluptate voluptatibus praesentium?"
+    },
+    {
+      "id": 5,
+      "title": "Promotion",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laborum cumque debitis libero incidunt delectus tempore assumenda magni voluptate voluptatibus praesentium?"
+    },
+    {
+      "id": 6,
+      "title": "Product Lanuch",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laborum cumque debitis libero incidunt delectus tempore assumenda magni voluptate voluptatibus praesentium?"
+    }
+  ]
+}
